@@ -1,4 +1,4 @@
-                           👋 Hi, I’m Dinesh C B - Associate Processor at Accenture
+                           👋 Hi, I’m Dinesh C B - Associate Analyst at Accenture
 - 🔭 A Data Analytics Enthusiastic
 - 🌱 I’m currently working on:
   - Big Data
