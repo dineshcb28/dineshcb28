@@ -1,4 +1,4 @@
-                           👋 Hi, I’m Dinesh C B - Associate Analyst at Accenture
+                           👋 Hi, I’m Dinesh C B - Business Intelligence Analyst at EY
 - 🔭 A Data Analytics Enthusiastic
 - 🌱 I’m currently working on:
   - Big Data
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 **About :****
 
-Currently I'm working as an Associate Analyst at Accenture!!
+Currently I'm working as an Business Intelligence Analyst at EY!!
 
 A continuous Learner, with good knowledge of Data Analytics, Posses strong Data Visualization with hands on experience with latest technologies.
 
