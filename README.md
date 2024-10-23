@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on:
   - Big Data
   - Data Modeling (ETL)
-- 🥅 2022 Goals: Learning New Skills on the field of Data Analytics, Big Data
+- 🥅 2024 Goals: Learning New Skills on the field of Data Analytics, Big Data
 - 🌟 Motivated by the desire to achieve success
 <!---
 dineshcb28/dineshcb28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
