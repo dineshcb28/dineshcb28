@@ -17,3 +17,6 @@ Currently I'm working as an Business Intelligence Analyst at EY!!
 A continuous Learner, with good knowledge of Data Analytics, Posses strong Data Visualization with hands on experience with latest technologies.
 
 My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector.
+
+
+**My Recent Certifications:
